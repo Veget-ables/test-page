@@ -1,5 +1,7 @@
+---
 layout: page
-title: "TITLE"
+title: "Top Page"
 permalink: /
+---
 
 This is content
