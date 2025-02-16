@@ -1,7 +1,5 @@
 ---
-layout: page
-title: "Top Page"
-permalink: /
+layout: default
+title: Home
 ---
-
-This is content
+<h1>{{ "Hello World!" | downcase }}</h1>
